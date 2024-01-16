@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704603657504,
+      "tag": "0000_flippant_tag",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704604738865,
+      "tag": "0001_flat_bloodscream",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704605941144,
+      "tag": "0002_last_smiling_tiger",
+      "breakpoints": true
+    }
+  ]
+}
